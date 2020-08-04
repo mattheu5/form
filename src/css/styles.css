@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: medium;
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: darkred;
+  }
+  input {
+   	font-size: large;
+    width: 250px;
+    background-color: beige;
+    margin-top: 10px;
+    text-transform: uppercase;
+  }
+  label {
+    display: block;
+    font-size: large;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ffff11;
+  }
